@@ -1,0 +1,21 @@
+{
+    "sass": {
+        "outputStyle": "expanded",
+        "includePaths": [
+            "bower_components/foundation-sites/scss/",
+            "bower_components/font-awesome/scss/"
+        ]
+    },
+    "autoprefix": {
+        "browsers": "last 2 versions"
+    },
+    "vendors": {
+        "scripts": [
+            { "file" : "bower_components/jquery/dist/jquery.min.js", "concat" : false },
+            { "file" : "bower_components/foundation-sites/dist/foundation.min.js", "concat" : false }
+        ],
+        "fonts": [
+            "bower_components/font-awesome/fonts/"
+        ]
+    }
+}

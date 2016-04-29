@@ -1,0 +1,22 @@
+{
+  "name": "frontend-starterkit",
+  "version": "1.0.0",
+  "authors": [
+    "Hisman"
+  ],
+  "description": "Starterkit for frontend project using Gulp",
+  "main": "gulpfile.js",
+  "license": "MIT",
+  "homepage": "https://github.com/hisman/frontend-starterkit#readme",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation-sites": "^6.2.1",
+    "font-awesome": "^4.6.1"
+  }
+}
